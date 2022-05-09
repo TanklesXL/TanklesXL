@@ -8,8 +8,8 @@ I'm always looking for new things to learn and play around with, but my current 
 ### What I've been up to 🔭
 I've most recently been playing around with [Gleam](https://gleam.run), working on things like:
 - [glint](https://github.com/TanklesXL/glint): a `Gleam` library for building command-line applications.
-- [gladvent](https://github.com/TanklesXL/glint): an Advent of Code runner for Gleam code that targets `erlang` (for running tasks concurrently) and leverages `glint` to build the CLI.
-
+- [gladvent](https://github.com/TanklesXL/gladvent): an Advent of Code runner for Gleam code that targets `erlang` (for running tasks concurrently) and leverages `glint` to build the CLI.
+- [tastings](https://github.com/TanklesXL/tastings): a spirits tasting aide that scrapes masterofmalt.com and displays relevant sensory info.
 
 
 
