@@ -3,7 +3,10 @@
 ### About me 😄
 I'm Robert (he/him), a software developer based in Montréal.
 
+In the day I code in Go, at night I code in Gleam. I am currently learning Rust.
+
 I'm always looking for new things to learn and play around with, but my current interests include functional programming, distributed systems & developer tooling.
+
 
 ### What I've been up to 🔭
 I've most recently been playing around with [Gleam](https://gleam.run), working on things like:
